@@ -46,4 +46,26 @@ engine:
     - uniquifier
     
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: aábcdefghijklmnoöópqrstuúüûvwxyz’
+  delimiter: " "
+  algebra:
+    - derive/á/a/
+    - derive/ó/o/
+    - derive/ú/oo/
+    - derive/ü/ui/
+    - derive/û/u/
+    - derive/ö/oe/
+    
+translator:
+  dictionary: edkins
+  spelling_hints: 5
+  preedit_format:
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
