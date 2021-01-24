@@ -45,6 +45,10 @@ engine:
     - simplifier
     - uniquifier
     
+menu:
+  page_size: 10
+  alternative_select_keys:
+    
 speller:
   alphabet: aábcdefghijklmnoöópqrstuúüûvwxyz’
   delimiter: " "
@@ -59,7 +63,6 @@ speller:
 translator:
   dictionary: edkins
   spelling_hints: 5
-  preedit_format:
 
 punctuator:
   import_preset: default
