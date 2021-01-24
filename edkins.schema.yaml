@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema-id: edkins
+  schema_id: edkins
   name: 上海閒話
   version: "1.0"
   author:
