@@ -1,0 +1,1883 @@
+暴  bau
+暴  bóh
+暴	pau
+蹣	ben
+蹣  men
+屛	bing
+屛  ping
+膀	bong
+膀  p'áng
+鎊	bong
+鎊  pong
+夲	dau
+夲  pung
+棹	dau
+棹  tsoh
+棹  dsoh
+斷	dön
+斷  tön
+查	dsó
+查  tsó
+度	dú
+度  doh
+狠	gwan
+狠  h'ung
+強	gyáng
+強  ky'áng
+强	gyáng
+强  ky'áng
+彊	gyáng
+彊  ky'áng
+還	han
+還  h'ai
+還  h'e
+還  wan
+還  zin 
+犴	hön
+犴  ngön
+𩉖	hwe
+𩉖  me
+椅	i
+椅  y'ü
+饐	i
+饐  ih
+更	kung
+更  káng
+稽	kyi
+稽  ky'i
+愒	ky'i
+愒  ky'ih
+愒  k'e
+愒  h'öh
+絜	kyih
+絜  yih
+垃	leh
+垃  lá
+鬲	lih
+鬲  kuh
+咯	loh
+咯  koh
+橈	nau
+橈  zau
+帑	nú
+帑  t'ong
+背	pe
+背  be
+賁	pi
+賁  vung
+別	pih
+別  peh
+別  bih
+別  beh
+榜	pong
+姘	p'ung
+姘  p'ing
+姘  ping
+殺	sah
+殺  se
+殺  sá
+省	sáng
+省  sing
+帥	se
+帥  söh
+宿	sóh
+宿  sieu
+數	sú
+數  soh
+塞	suh
+塞  se
+識	suh
+識  tsz
+擔	tan
+擔  dan
+塠	te
+塠  teh
+鐺	tong
+鐺  t'ong
+鐺  ts'ung
+朝	tsau
+朝  dsau
+輾	tsen
+輾  nyin
+湫	ts'ieu
+湫  tsiau
+推	ts'öi
+推  t'e
+措	ts'ú
+措  djeh
+措  dsah
+曾	tsung
+曾  dsung
+曾  zung
+唯	vi
+唯  w'e
+樂	yáh
+樂  ngoh
+樂  loh
+樂  yau
+殀	y'au
+殀  h'ong
+殀  h'áng
+柚	yeu
+柚  dsóh
+寨	zá
+寨  se
+寨  suh
+單	zen
+單  tan
+樹	zû
+女	zû
+女  nyü
+食	zuh
+食  zz
+橫	wung
+橫  wáng
+鋪	pú
+鋪  p'ú
+舖	pú
+鋪  p'ú
+辟	pih
+辟  p'ih
+辟  bi
+辟  p'i
+阝	ih
+阝  veu
+乾	kyin
+乾  gyin
+乾  kön
+舍	se
+舍  só
+啊	ah
+啊  ú
+唵	an
+唵  y'in
+壕	au
+壕  ngau
+澳	au
+澳  y'óh
+跋	bah
+跋  beh
+鮑	bau
+鮑  pau
+炮	bau
+炮  p'au
+排	be
+排  bá
+敗	be
+敗  bá
+牌	be
+牌  bá
+稗	be
+稗  bá
+𥱼	be
+𥱼  bá
+粺	be
+粺  bá
+糒	be
+糒  bi
+絥	be
+絥  vóh
+悖	beh
+悖  be
+亳	beh
+亳  boh
+胖	ben
+胖  p'ong
+坒	bi
+坒  be
+避	bi
+避  ben
+鼻	bi
+鼻  bih
+枇	bi
+枇  bih
+嚊	bi
+嚊  h'úng
+萆	bi
+萆  pe
+裨	bi
+裨  pe
+毖	bi
+毖  pi
+蔽	bi
+蔽  pi
+篦	bi
+篦  pin
+箆	bi
+箆  pin
+嫖	biau
+嫖  piau
+佛	bih
+佛	feh
+佛	veh
+蹩	bih
+蹩	p'ih
+蹩	pih
+辦	bin
+辦  ban
+辦  p'an
+拚	bin
+拚  p'en
+拚  p'ing
+緶	bin
+緶  pin
+釆	bin
+釆  ts'e
+屏	bing
+屏  ping
+罷	bó
+罷  bá
+瀑	bóh
+瀑  boh
+雹	bóh
+雹  boh
+泊	bóh
+泊  boh
+泊  p'áh
+匐	bóh
+匐  vóh
+菔	bóh
+菔  vóh
+蚌	bong
+蚌  báng
+彷	bong
+彷  fong
+磅	bong
+磅  pong
+滂	bong
+滂  p'ong
+滂  p'áng
+葡	bu
+葡  beh
+簿	bú
+簿  bóh
+鄱	bú
+鄱  bóh
+帛	buh
+帛  báh
+彭	bung
+彭  báng
+朋	bung
+朋  báng
+棚	bung
+棚  báng
+甏	bung
+甏  báng
+硼	bung
+硼  báng
+膨	bung
+膨  báng
+蟚	bung
+蟚  báng
+鵬	bung
+鵬  báng
+掽	bung
+掽  báng
+掽  p'áng
+碰	bung
+碰  báng
+碰  p'áng
+鳳	búng
+鳳  vúng
+鳯	búng
+鳯  vúng
+𨅓	dah
+𨅓  sá
+鼗	dau
+鼗  dong
+埭	de
+埭  dá
+玳	de
+玳  dá
+瑇	de
+瑇  dá
+隊	de
+隊  dsöi
+凸	deh
+凸  dih
+凸  dsah
+譚	den
+譚  dan
+隶	di
+隶  de
+㖷	di
+㖷  dsz
+㖷  zz
+笤	diau
+笤  tsau
+蜨	dih
+蜨  sih
+褶	dih
+褶  tseh
+糴	dih
+糴  zeh
+殿	din
+殿  tin
+嗔	din
+嗔  ts'ung
+讀	dóh
+讀  deu
+塼	dön
+塼  tsen
+宕	dong
+宕  dáng
+班	dong
+班  pan
+𨌩	dong
+𨌩  t'ong
+豸	dsá
+豸  dsz
+擿	dsáh
+擿  tih
+纔	dsan
+纔  k'an
+纔  k'ah
+鑱	dsan
+鑱  ts'an
+饞	dsan
+饞  zan
+饌	dsan
+饌  zen
+鏨	dsan
+鏨  zen
+鏨  dsan
+長	dsáng
+長  tsáng
+長  záng
+償	dsáng
+償	dsong
+塲	dsáng
+塲	dsong
+幢	dsáng
+幢	dsong
+仗	dsáng
+仗	tsáng
+裳	dsáng
+裳	záng
+裳	zong
+嘗	dsáng
+嘗	zong
+甞	dsáng
+甞	zong
+漕	dsau
+漕	zau
+趙	dsau
+趙	zau
+擾	dsau
+擾	zau
+擾	ngau
+材	dse
+材	ze
+裁	dse
+裁	ze
+柴	dse
+柴	ze
+柴	zá
+蟄	dseh
+蟄	dsuh
+𧋍	dseh
+𧋍	dsuh
+蜇	dseh
+蜇	dsuh
+卡	dseh
+卡	k'á
+捽	dseh
+捽	tsöh
+㙷	dseh
+㙷	zeh
+雜	dseh
+雜	zeh
+幬	dseu
+幬	dau
+讎	dseu
+讎	dsen
+揉	dseu
+揉	nyóh
+揉	nyeu
+齊	dsi
+齊	zi
+齊	tsz
+齊	tse
+齊	gyi
+皭	dsiáh
+皭	ziáh
+墻	dsiáng
+墻	ziáng
+墙	dsiáng
+墙	ziáng
+牆	dsiáng
+牆	ziáng
+譙	dsiau
+譙	ts'iau
+誚	dsiau
+誚	ts'iau
+誚	siau
+藉	dsie
+藉	dsin
+藉	dsih
+泅	dsieu
+泅	yeu
+就	dsieu
+就	zieu
+睫	dsih
+睫	kyi
+節	dsih
+節	tsih
+席	dsih
+席	zih
+截	dsih
+截	zih
+襲	dsih zih
+錢	dsin din
+全	dsin dsen zen
+前	dsin zin
+潛	dsin zin
+潜	dsin zin
+睜	dsing tsáng
+情	dsing zing
+靖	dsing zing
+靜	dsing zing
+静	dsing zing
+餳	dsing zing dong
+怍	dsó dsoh
+濁	dsóh dsoh
+妯	dsóh gyóh
+逐	dsóh gyóh
+族	dsóh zóh
+蜀	dsóh zóh
+昨	dsoh zoh dsóh dsó zó zau
+鎚	dsöi dsz
+錘	dsöi dsz dú
+椎	dsöi dsz zz
+元	dsöi nyön yön
+蕊	dsöi nyü
+蕋	dsöi nyü
+睿	dsöi söi
+穗	dsöi söi seh söh
+槥	dsöi we
+睡	dsöi zöi
+罪	dsöi zöi
+彗	dsöi zöi we
+戇	dsong h'en ken gong
+鉏	dsú dsz
+儎	dsü tse
+坐	dsú zú
+敘	dsü zû
+緒	dsü zü
+鋤	dsú zú dsz
+叙	dsü zû zü
+宅	dsuh dsáh
+擲	dsuh dsáh
+賊	dsuh zuh
+剩	dsung dsáng
+賸	dsung dsáng
+棖	dsung dsáng
+橙	dsung dsáng
+塍	dsung dsáng gyung
+瞪	dsung dung
+晟	dsung zung
+層	dsung zung
+蒓	dsung zung
+蓴	dsung zung
+蹲	dsung zung
+茸	dsúng zúng
+疵	dsz ts'z
+褫	dsz ts'z
+匙	dsz zz
+持	dsz zz
+走	dú tseu
+螣	dung duh
+疼	dung dúng
+蹬	dung tung
+鼕	dúng túng
+埃	e i he ye
+餲	e i öh
+盦	eh en
+瞘	eu k'eu
+凡	fan van
+凢	fan van
+飯	fan van
+乏	fe vah
+勿	feh veh
+弗	feh veh
+拂	feh veh
+否	feu  vá p'i pi
+沸	fi feh
+覆	fóh feu
+僕	fú bóh p'óh
+嘸	fú m
+俛	fú min
+仆	fú p'óh bóh
+夫	fú vú
+釜	fú vú
+桴	fú vú veu
+馚	fung vung
+分	fung vung
+份	fung vung
+忿	fung vung
+憤	fung vung
+馩	fung vung
+俸	fúng vúng
+𡁶	gi tsih
+鬟	gwan hwan
+擐	gwan kyuh
+匱	gwe gyü
+跪	gwe gyü
+馗	gwe gyü
+愧	gwe kwe
+櫃	gwe kyü (second word) gyü (with first word)
+簣	gwöi gwe
+餽	gwöi gwe
+饋	gwöi gwe
+狂	gwong wong
+迦	gyá kyá gá ká
+趫	gyau ky'au
+禸	gyau zeu
+仇	gyeu dseu dsen
+讐	gyeudseu dsen
+跽	gyi gyü gwe
+期	gyi kyi
+竒	gyi kyi
+奇	gyi kyi
+悸	gyi kyi
+祗	gyi tsz
+及	gyih gyi
+屐	gyih gyuh
+芡	gyin ky'in
+瘸	gyó (gyau)
+軸	gyöh gyóh
+醵	gyü gyáh
+臼	gyü gyeu
+埧	gyü pó
+捦	gyung (gying)
+擒	gyung (gying)
+檠	gyung kyung
+轄	h'ah hwah
+銜	han hen ngen
+歛	h'an lin
+豻	h'an ngön hön
+浩	hau h'au
+濠	hau ngau
+害	h'e he
+海	h'e he
+合	h'eh  keh heh
+盒	heh hah
+吸	h'eh hyih
+核	heh weh ngeh
+函	hen yan
+凾	hen yan
+後	h'eu heu
+喉	heu hú
+何	h'óh hú
+郝	h'oh h'uh
+矍	h'oh hwoh
+㗁	h'oh ngoh
+岸	hön ngön
+夯	h'ong h'áng
+呵	h'ú h'au
+𣶉	hú h'ú
+河	h'ú hú
+苛	hú k'ú
+塢	hú ú
+猢	hú weh
+胡	hú wú
+嫦	hung dsáng
+亨	h'ung h'áng
+哼	h'ung h'áng
+紅	húng kúng
+花	hwá hwó
+孬	hwá ky'eu
+甩	hwah hwan
+砉	hwah hyih
+虫	hwe  dsúng (2nd and 3rd)
+蟲	hwe dsúng
+歡	hwe hwan
+懽	hwe hwen
+𩔁	hwe me
+嘒	hwe we
+穢	hwe w'e
+汨	hweh mih
+獾	hwen h'ön
+貛	hwen h'ön
+化	hwó h'au
+㬦	hwoh h'oh
+毁	hwöi hwe
+悔	hwöi hwe
+譭	hwöi hwe
+况	hwong kwong
+晃	hwong kwong
+王	hwong wong
+黃	hwong wong
+黄	hwong wong
+虍	hwú h'ú
+虎	hwú h'ú
+貨	hwú h'ú
+薨	hwung h'úng
+嚇	hyá h'áh
+𨐃	hyá tsá
+蝦	hyá yá h'ön h'ó
+呷	hyah h'ah
+瞎	hyah h'ah
+哮	hyau h'au
+孝	hyau h'au
+蟹	hye h'á
+䲒	hye h'á
+𩼠	hye h'á
+駭	hye hyen hyin
+嗅	hyeu h'úng
+齅	hyeu h'úng ky'úng
+韭	hyeu kyeu
+韮	hyeu kyeu
+飍	hyeu piau
+戲	hyi h'ú
+兮	hyi i
+醃	hyi in
+腌	hyi in
+掀	hyin hyung
+噱	hyöh gyáh gyuh
+旭	hyöh hyóh
+畜	hyóh ts'óh
+喧	hyön hyi
+靴	hyön hyú
+鞾	hyön hyú
+絢	hyön yön
+許	hyü h'e
+荀	hyüng sing
+猗	i gyi
+迤	i h'ai (h'e)
+欹	i ky'i
+理	i li
+繫	i yi
+繋	i yi
+系	i yi
+挨	iá ie á e
+凹	ih au
+靨	ih in
+晏	in an
+掩	in en
+嫌	in yin
+靠	k'au kau
+栲	k'au k'eh
+磕	k'e k'eh
+欬	k'e k'eh (with 1st) he
+咳	k'e k'eh he
+侃	k'e k'ön
+盖	ke kuh keh
+葢	ke kuh keh
+蓋	ke kuh keh
+堪	k'en k'e
+可	k'ó k'ú k'au
+擱	koh goh
+閣	koh h'oh
+告	kóh kau gau
+胳	koh keh
+彀	k'oh keu
+恪	k'oh ky'áh
+刊	k'ön k'an
+刋	k'ön k'an ts'in
+坑	k'ong k'áng
+亢	kong k'ong
+貢	kong kúng
+賈	kú  kyá (2nd and 3rd) ká 
+孤	kú hú
+髁	kú k'ú
+个	kú kuh
+個	kú kuh
+箇	kú kuh
+㗆	kuh kah
+革	kuh káh
+格	kuh káh
+槅	kuh káh
+膈	kuh káh
+隔	kuh káh
+喀	k'uh k'áh
+客	k'uh k'áh k'á
+叩	k'uh k'eu
+共	kúng gúng
+庚	kung káng
+梗	kung káng
+畊	kung káng
+耕	kung káng
+秔	kung káng
+粳	kung káng
+稉	kung káng
+羮	kung káng
+羹	kung káng
+耿	kung káng
+骾	kung káng
+鯁	kung káng
+疘	kúng kong
+肱	kúng kwung
+龔	kúng kyúng
+瓜	kwá kwó
+寡	kwá kwó
+挂	kwá kwó
+掛	kwá kwó
+適	kwah  suh tih
+愜	kw'ah ky'ah kyah
+慣	kwan gwan
+光	kwáng kwong
+誑	kw'áng kw'ong hwong
+喟	kwe hwe we
+乖	kwe kwá
+怪	kwe kwá
+恠	kwe kwá
+拐	kwe kwá
+柺	kwe kwá
+快	kw'e kw'á k'á
+劊	kwe kw'e
+睽	kw'e kwe
+龜	kwe kyü
+亀	kwe kyü
+虧	kw'e ky'ü
+忽	kweh hweh
+窽	kw'en k'en
+窾	kw'en k'en
+欵	kw'en kwen
+款	kw'en kwen
+蝸	kwó kú
+踝	kw'ó kú
+壳	kwoh k'oh
+國	kwóh kóh
+国	kwóh kóh
+圭	kwöi kwe
+膾	kwöi kwe
+軌	kwöi kwe
+窺	kw'öi kw'e
+歸	kwöi kwe kyü
+貴	kwöi kwe kyü
+鬼	kwöikwe kyü
+归	kwöikwe kyü
+⿔	kwöikwe kyü
+況	kw'ong hwong
+礦	kw'ong k'ong
+匡	kw'ong kwong
+框	kw'ong ky'ong
+眶	kw'ong ky'ong
+觥	kwung kúng
+皆	kw'ungkyá hyá
+觧	kyá  ká
+解	kyá  ká ye 
+茄	kyá gá
+笳	kyá gyá
+伽	kyá gyá ká gá
+傢	kyá ká
+價	kyá ká
+加	kyá ká
+嘉	kyá ká
+堦	kyá ká
+階	kyá ká
+嫁	kyá ká
+家	kyá ká
+尬	kyá ká
+屆	kyá ká
+届	kyá ká
+廨	kyá ká
+戒	kyá ká
+枷	kyá ká
+架	kyá ká
+界	kyá ká
+疥	kyá ká
+芥	kyá ká
+蚧	kyá ká
+街	kyá ká
+袈	kyá ká
+誡	kyá ká
+駕	kyá ká
+揩	ky'á k'á
+楷	ky'á k'á
+耞	kyá ká kan
+假	kyá ká kuh
+嘏	kyá kú
+恝	kyá ky'ih
+隺	ky'ah ngoh
+恰	ky'ah h'ah k'ah
+郤	ky'áh hyih
+蛺	kyah ih
+胛	kyah ká kah
+嘎	kyah kah
+袷	kyah kah
+裌	kyah kah
+夾	kyah kah gá
+甲	kyah kah k'ah
+角	kyáh koh
+殼	ky'áh k'oh
+確	ky'áh k'oh
+珏	kyáh kóh
+愨	ky'áh k'óh
+僱	ky'áh kú
+雇	ky'áh kú
+莢	kyah kyih
+頰	kyah kyih
+黠	kyah kyih
+減	kyan kan
+奸	kyan kan
+揀	kyan kan
+椷	kyan kan
+鑑	kyan kan
+鑒	kyan kan
+𢽣	ky'an k'an
+𢽶	ky'an k'an
+檻	ky'an k'an
+姦	kyan kyin kan
+柬	kyan kyin kan
+監	kyan kyin kan
+簡	kyan kyin kan
+鹻	kyan kyin kan
+鹼	kyan kyin kan
+降	kyáng hong  kong 
+江	kyáng kong
+絳	kyáng kong
+講	kyáng kong
+矼	ky'áng k'úng kong
+轇	kyau au
+交	kyau kau
+叫	kyau kau
+攪	kyau kau
+敎	kyau kau
+教	kyau kau
+膠	kyau kau
+茭	kyau kau
+酵	kyau kau
+鉸	kyau kau
+校	kyau kau yau
+絞	kyau kau gau
+敲	ky'au k'au kau
+恔	kyau yau
+溝	ky'eu keu
+口	ky'eu k'eu
+車	kyeu kyü ts'ó
+筓	kyi hyi
+疙	kyi keh
+敧	kyi ky'i
+髻	kyi kyih
+契	ky'i ky'ih sih
+騙	ky'i p'in
+夂	ky'i tsz
+䟷	ky'i zeh
+踅	ky'i zeh
+劼	kyih gah
+齕	ky'ih heh
+歇	ky'ih hyih
+揭	kyih hyih kyi
+記	kyih kyi
+級	kyih kyuh
+乞	ky'ih ky'uh
+訖	ky'ih ky'uh
+圾	kyih seh si
+挈	ky'ih yih
+間	kyin kan 
+㵎	kyin kan
+艱	kyin kan
+襇	kyin kan
+鐧	kyin kan
+諫	kyin kyan
+歉	ky'in ky'ih
+慊	ky'in ky'ih
+騫	ky'in kyin
+今	kyin kyung
+㾾	kyin lin
+見	kyin yin
+亅	kyöh 
+覺	kyoh kyáh kyau koh kau
+橜	kyöh gyöh
+橛	kyöh gyöh
+圈	ky'ön gyön
+勤	ky'ön gyung
+敺	ky'ü eu
+區	ky'ü eu
+俱	kyü gyü
+遽	kyü gyü
+居	kyü ke
+裾	kyü ke
+鋸	kyü ke ká
+句	kyü keu
+去	ky'ü ky'i
+吃	ky'uh ky'ih
+君	kyün gyün
+窘	kyün ky'ün
+麇	ky'ün kyün
+菌	ky'ün zing
+劤	kyung gyung
+勁	kyung gyung
+芎	ky'úng kúng
+拉	l'á lá lah
+喇	lah lá
+攔	lan lah láng ráng
+罱	lan nyin
+撈	lau l'au liau
+癩	le lá
+賴	le lá
+頼	le lá
+戾	le li
+淚	le li
+勑	le ts'uh
+𠡠	le ts'uh
+孌	len lin lön
+簍	leu lieu
+褸	leu lü
+隸	li di
+泣	li ky'ih
+捩	li lih
+履	li lü
+晾	liáng long
+𣩢	l'iau liau
+瘤	lieu leu
+遛	lieu l'ieu
+邋	lih lah
+獵	lih lah
+𥡢	lih seh söh
+薟	lin hyin
+鎌	lin kyin
+攣	lin lön
+戀	lin lön hwan
+斂	lin sú
+薄	lin bóh póh bú
+翎	ling lih
+櫺	ling lung
+欞	ling lung
+稟	ling ping
+蹂	lóh leu dseu
+略	lóh liáh
+劣	löh lih
+卵	lön lú
+蜋	long liáng
+蘿	lú lau
+呂	lü li
+旅	lü li
+櫚	lü li
+馿	lü li
+驢	lü li
+濾	lü lih
+覶	lú l'ú
+虜	l'ú lú
+儒	lú zû
+如	lú zü zû
+冷	lung láng
+掄	lung ling
+輪	lung ling
+瀧	lúng song
+馬	má mó
+麻	má mó
+駡	má mó
+目	máh má móh
+蠻	man m'an
+命	man ming
+嘪	me má
+埋	me má
+薶	me má
+賣	me má
+美	me m'e
+每	m'e me
+買	m'e me má
+咩	me mi
+媚	me mi
+眉	me mi
+袜	meh mah 
+襪	meh mah
+秣	meh me
+沫	meh mú
+漫	men man
+幔	men man
+襔	m'en men
+丘	meu ky'eu
+畆	meu m
+畝	meu m
+矛	meu mieu miau mau
+繆	meu mieu móh
+拇	meu mú
+牡	meu mú me
+謎	mi me
+藐	m'iau miau
+糹	mih sz
+糸	mih sz
+宀	ming min
+敏	m'ing ming
+媽	mó m'á
+蟆	m'ó mó
+幕	móh mú
+万	móh van muh man
+鶩	móh vú
+尨	mong bong
+莽	m'ong mong
+摩	mú hwe
+姆	mú m
+姥	mú m
+母	mú m
+𧿹	mú meu m
+麼	mú mó
+麽	mú mó
+莫	mú móh
+蒙	mú múng
+濛	mú múng
+麥	muh máh
+脉	muh máh
+脈	muh máh
+驀	muh máh
+陌	muh máh páh
+䘑	muh móh
+孟	mung máng
+猛	mung máng
+蜢	mung máng
+矇	múng máng
+朙	mung ming
+明	mung ming
+盟	mung ming
+氓	mung mong
+䖟	mung mong
+蝱	mung mong
+夢	múng mong
+夣	múng mong
+𡖶	múng mong
+梦	múng mong
+奣	m'ung mung
+盲	mung máng mong
+哪	ná nau
+挪	ná nau
+拏	ná nau nó ne
+拿	ná nau nó ne
+挐	ná nau nó ne
+納	náh neh
+那	nan náng  nú  ná há  á 
+呶	nau nú
+奡	nau nyau
+奶	ne ná
+嬭	ne ná
+妳	ne ná
+餒	ne neu
+柰	ne ni
+呐	neh ná
+吶	neh ná
+南	nen ná
+赧	nen ne
+恆	ng hung
+螯	ngau gau
+閡	nge he
+凝	nge nyung
+呆	nge te
+獃	nge te
+懛	nge te
+哎	ngee ah
+軛	ngeh uh áh
+碍	ngen nge
+礙	ngen nge
+貉	ngoh  h'oh  muh 
+鵠	ngoh  koh  kóh 
+齶	ngoh h'oh
+腭	ngoh h'oh k'oh
+噩	ngoh oh
+危	ngöi we
+巍	ngöi we
+貋	ngön hön
+囮	ngú hú yeu
+𡈙	ngú hú yeu
+額	nguh ngáh
+厄	nguh uh
+你	n'i ni
+諾	noh nau
+瓤	nong nyáng
+噥	núng n'úng
+捻	nyah nyin
+瘧	nyáh nyoh
+念	nyan nyin
+壤	nyáng záng
+嬲	nyau gah
+尿	nyau s
+恧	nyeu nyóh
+伲	nyi n'i ni
+尼	nyi nyuh
+儀	nyi yi
+這	nyien tse
+圪	nyih ky'ih
+鑷	nyih ny'in
+騐	nyin nyan
+驗	nyin nyan
+粘	ny'in nyin
+黏	ny'in nyin
+疒	nyuh dsih
+仍	nyung dsung
+戎	nyúng dsúng
+硬	nyung ngáng
+濃	nyúng núng
+衽	nyung zung
+𠱥	öh hwe
+惡	oh ú
+歹	öhte ti
+歺	öhte ti
+骯	ong áng
+盎	ong ngong
+巴	pá pó
+把	pá pó
+芭	pá pó
+霸	pá pó
+爸	pá pó páh
+怕	p'á p'ó p'óh
+叭	pah pa
+扳	p'an pan
+攀	p'an pan t'an
+爆	pau p'au
+趵	pau tsóh
+被	p'e  be bi 
+坏	p'e be
+醅	p'e be
+扒	pe bó
+拜	pe pá
+擺	pe pá
+派	p'e p'á
+俾	pe pi
+轡	p'e p'i
+垻	pe pó
+拌	p'en ben p'ing pin
+絆	pen pan
+搬	pen pe
+褒	peu pau
+襃	peu pau
+剖	p'eu p'ú
+費	pi  fi vi
+比	pi bi
+彼	pi pe
+薸	piau biau
+杓	piau dsoh
+驫	piau pieu
+闢	p'ih bih
+别	pih peh bih beh
+疋	p'ih sú
+辨	pin bin
+辯	pin bin
+騈	pin bin
+萍	ping bing
+併	ping dóh
+迸	ping pung páng
+逬	ping pung páng
+䶕	pó bó
+帕	p'ó p'óh p'áh
+卜	póh poh
+博	póh poh
+愽	póh poh
+膊	póh poh
+朴	p'óh p'oh
+樸	p'óh p'oh
+脯	pú fú bú
+波	pú póh
+布	p'ú pú
+普	p'ú pú
+伯	puh páh
+佰	puh páh
+擘	puh páh
+柏	puh páh
+栢	puh páh
+百	puh páh
+珀	p'uh p'áh
+拍	p'uh p'áh p'óh
+廹	p'uh p'eh puh
+迫	puh p'uh
+白	puhbuh báh
+蓬	púng búng
+崩	pung páng
+浜	pung páng
+綳	pung páng
+繃	pung páng
+拼	pung p'ing
+摒	pung p'ing
+冄	ren (zen)
+洱	rh mi
+餌	rh nyi
+二	rh nyi
+耳	rh nyi
+弍	rh nyi
+貳	rh nyi
+兒	rh nyi heu ng
+鎩	sá sah
+𡋷	sá só
+沙	sá só
+娑	sá sú só
+煞	sah sá
+躠	sah sih
+𨇨	sah sih
+薩	sah soh
+噪	sau tsau
+搔	sau tsau
+碎	se e sen
+洒	se sá
+灑	se sá
+捨	se só
+賖	se só
+赦	se s'ó
+晒	se só sá
+曬	se só sá
+師	se sz
+廿	seh ngan
+卄	seh nyan
+溼	seh sáh
+濕	seh sáh
+卅	seh san-seh
+葉	seh yih
+睒	sen hyin dan
+嗾	seu hyó ts'óh
+夊	seu se
+徒	si dú
+艘	siau seu
+瀉	sie (sin) siá
+寫	sie siá
+冩	sie siá
+修	sieu seu
+媳	sih sing
+恤	sih söh
+膝	sih tsih ts'ih
+泄	sih yi
+洩	sih yi
+郇	sing zing
+塽	siung (song)
+骰	só  deu
+嗄	só au
+厦	só hau
+說	söh  söi  yöh  seh 
+説	söh  söi  yöh  seh 
+縮	sóh soh
+率	söh sön se
+奢	söi se só hyá
+髓	söi sung si
+水	söi sz
+氵	söi sz
+痿	söi w'e
+杼	sû dsû
+壻	sü si
+婿	sü si
+絮	sü si
+恕	sû só
+素	sú soh
+蘇	sû sú
+須	sû sü
+鬚	sü sú
+梳	sú sz
+鼠	sû ts'û ts'z sz
+屋	suh óh
+釋	suh seh
+飾	suh seh
+餙	suh seh
+沈	sung dsung
+沉	sung dsung
+訟	súng dsúng
+誦	súng dsúng
+頌	súng dsúng
+生	sung sáng
+声	sung sáng
+聲	sung sáng
+牲	sung sáng
+甥	sung sáng
+笙	sung sáng
+眚	sung sing
+鬆	súng sung
+媵	sung yung
+逮	sz di de
+篩	sz sá
+釃	sz sá
+試	sz seh
+死	sz si
+屎	sz ú
+與	sz y'ü yü
+庸	sz yúng
+斯	sz zz
+弛	sz zz  sá
+𩫊	t'áh (t'ah)
+闥	t'ah dah
+笪	tah tan
+𡍲	tah tuh
+忐	t'an k'ung
+大	t'e dá dú
+台	t'e de
+貸	t'e de
+檯	t'e dé
+磓	te dsöi teh
+搥	te dsöi teh (with first)
+帶	te tá
+戴	te tá
+太	t'e t'á
+汰	t'e t'á
+泰	t'e t'á
+對	te teh t'eh
+对	te teh t'eh
+衩	t'e ts'ó
+柮	teh ngeh ná
+搭	teh tah
+答	teh tah
+荅	teh tah
+脫	t'eh t'öh
+脱	t'eh t'öh
+耽	ten tan
+躭	ten tan
+撢	t'en tön
+抖	teu t'eu
+䶑	ti t'i
+揥	t'i ti
+爹	ti tiá
+喪	t'i ts'z sz
+彤	tiau dúng
+鳥	tiau nyau ny'au
+墊	tin din
+滇	tin din
+聽	t'ing ts'ing t'ung
+聴	t'ing t'ung ts'ing
+魄	t'óh p'uh p'áh
+沰	t'oh toh
+都	t'óh tú
+倘	t'ong bi
+鏜	t'ong t'áng
+䬩	tsá tse
+差	ts'á ts'e  ts'ó ts'z
+揸	tsá tsó
+詐	tsá tsó
+叉	ts'á ts'ó
+勺	tsáh dsoh
+軋	tsah gah
+剎	ts'ah sah
+拓	tsáh t'óh
+礤	ts'ah ts'an
+斫	tsáh tsoh
+着	tsáh tsz dsáh
+酌	tsáh záh
+儳	tsan ts'an
+醮	tsan tsiau
+鬯	ts'áng tsáng
+掙	ts'áng tsáng
+掌	tsáng tsong
+瘴	tsáng tsong
+鞝	tsáng tsong
+麞	tsáng tsong
+娼	tsáng ts'ong
+昌	ts'áng ts'ong
+猖	ts'áng ts'ong
+菖	ts'áng ts'ong
+閶	ts'áng ts'ong
+倡	ts'áng ts'ong mau
+啁	tsau tau
+抓	tsau tsá
+笊	tsau tsá
+躁	tsau ts'au
+懆	ts'au tsau
+探	ts'e t'en
+債	tse tsá
+斋	tse tsá
+齋	tse tsá
+蔡	ts'e ts'á
+釵	ts'e ts'á
+赭	tse tsó
+嘬	ts'e tsöh
+猜	ts'e ts'öi
+菑	tse tsz
+蛭	tseh dih
+拶	tseh tsan
+輟	ts'eh tseh
+辶	ts'eh ts'iáh
+辵	ts'eh ts'iáh
+拙	tseh tsöh
+彳	ts'eh ts'uh
+蚱	tseh tsuh keh
+質	tseh tsz
+窒	tseh tsz
+貭	tseh ts'z
+劕	tseh zah
+折	tseh zeh
+摺	tseh zeh
+耑	tsen tön
+參	ts'en ts'an tsung (Other words) sung san
+佔	tsen tsin
+淺	ts'en ts'in
+喘	ts'en ts'ön
+甄	tsen tsung
+檐	ts'en yin
+惆	ts'eu dseu
+臭	ts'eu hyeu
+瘳	ts'eu liau
+杻	ts'eu nyeu
+皺	tseu tsieu
+縐	tseu tsin
+棲	ts'i si
+姐	tsi tsiá
+姊	tsi tsz
+㿭	ts'iáh ts'áh
+哨	ts'iau sau
+峭	ts'iau siáh
+𠞰	tsiau tsau
+勦	tsiau ts'au
+罝	tsie (tsin)
+積	tsih tsz
+僭	tsin tsen
+且	ts'in ts'iá
+借	tsin tsie tsiá
+儘	tsing dsing
+峻	tsing kyün
+蜻	tsing sing
+睃	tsing sú
+吮	tsing zung zin
+槎	tsó dsó
+炸	tsó zah
+錯	ts'óh  ts'oh  ts'ú (2nd and 3rd) ts'ó 
+綽	ts'óh ts'áh ts'á
+戳	tsoh tsóh
+啄	ts'oh tsoh zoh
+崒	ts'öh ts'öi
+椓	tsoh tsû
+足	tsóh tsü
+啄	tsoh zoh
+觜	tsöi tsz 
+衰	ts'öi se
+䊚	tsöi teh
+綴	tsöi tseh
+啐	ts'öi tsöh
+毳	ts'öi tsöh
+追	ts'öi tsöi dsöi
+揣	ts'öi ts'ön
+嘴	tsöi tsz
+錐	tsöi tsz
+吹	ts'öi ts'z
+炊	ts'öi ts'z
+龡	ts'öi ts'z
+攢	tsön tsan
+釧	ts'ön ts'en ts'öi
+週	tsön tseu
+藏	tsong dsong
+壯	tsong tsáng
+壮	tsong tsáng
+章	tsong tsáng
+髒	tsong tsáng
+囱	ts'ong ts'úng
+囪	ts'ong ts'úng
+䖏	ts'û  hyü
+睢	tsü hwe söi
+杵	ts'û sû
+著	tsû tsáh dsáh
+諏	tsü tseu
+左	tsú tsi
+楚	ts'ü ts'ú
+疽	tsü tsû
+煮	tsû tsz
+煑	tsû tsz
+猪	tsû tsz
+豬	tsû tsz
+絺	ts'û ts'z
+筴	ts'uh kyah
+栅	ts'uh sáh
+柵	ts'uh sáh
+窄	tsuh tsah
+仄	tsuh tsáh
+隻	tsuh tsáh
+摘	tsuh tsáh
+責	tsuh tsáh
+赤	ts'uh ts'áh
+册	ts'uh ts'áh
+𠕁	ts'uh ts'áh
+坼	ts'uh ts'áh
+尺	ts'uh ts'áh
+拆	ts'uh ts'áh
+策	ts'uh ts'áh
+斥	ts'uh ts'áh
+測	ts'uh ts'áh
+騭	tsuh tseh
+塜	tsúng búng
+瞠	ts'ung dong
+從	ts'úng dsúng (for two readings)
+娠	tsung sung
+琛	ts'ung sung
+争	tsung tsáng
+爭	tsung tsáng
+撑	ts'ung ts'áng
+撐	ts'ung ts'áng
+橕	ts'ung ts'áng
+牚	ts'ung ts'áng
+琤	ts'ung ts'áng
+簪	tsung tsen
+闖	ts'ung ts'ong
+錚	tsung ts'ung
+摠	ts'úng tsúng
+總	ts'úng tsúng
+等	tsung tung
+微	tsung vi
+抬	ts'z de
+擡	ts'z de
+𪙹	ts'z dseh
+厜	tsz dsöi
+鷀	tsz dsz
+鶿	tsz dsz
+祇	tsz gyi
+摛	ts'z li
+厎	tsz ti
+躓	tsz tseh
+指	tsz tsih
+漬	tsz tsih
+蜘	tsz tsih
+𧐉	tsz tsih
+髭	tsz tsú
+褚	ts'z ts'û
+只	tsz tsuh tseh  tsáh
+黹	ts'z tsz
+恥	ts'z tsz
+智	ts'z tsz
+耻	ts'z tsz
+哆	ts'z tú
+魑	ts'zli
+蛻	t'ú söi t'ön t'e
+蜕	t'ú söi t'ön t'e
+多	tú tá
+拖	t'ú t'á
+拕	t'ú t'á
+吐	t'ú zz
+噋	t'ung dung
+痛	t'ung dúng
+侗	t'úng dúng
+褪	t'ung tön t'en
+惇	tung zung
+阿	ú  áh  ah 
+戽	ú h'ú
+朽	ú hyeu
+午	ú ng
+忤	ú ng
+㐅	ú ng
+五	ú ng
+仵	ú ng
+伍	ú ng
+玉	ü nyóh
+唩	ú we
+倭	ú wi
+呃	uh áh
+伐	vá vah
+萬	van man
+吥	veh beu
+物	veh meh
+浮	veu vú
+肥	vi bi
+味	vi mi
+未	vi mi
+尾	vi nyi
+帷	vi wöi we
+縛	vóh bóh
+蔔	vóh bóh
+複	vóh fóh
+復	vóh fóh veu
+防	vong bong
+罒	vong mong
+妄	vong mong
+罔	vong mong
+𦋟	vong mong
+鋩	vong mong
+父	vú fú
+憮	vú fú
+輔	vú fú
+冇	vú m
+无	vú m
+無	vú m mó
+毋	vú mú m
+負	vú veu
+伏	vú vóh bú
+鵡	vú yú
+聞	vung  mung
+馮	vúng bing
+慴	vung dsih
+汶	vung ming
+脗	vung ming
+問	vung mung
+蚊	vung mung
+蚉	vung mung
+蟁	vung mung
+紊	v'ung vung
+華	wá  hwó  wó 
+話	wá wó
+娃	wá w'ó
+蛙	w'á w'ó
+穵	w'ah gah
+滑	wah kweh
+畫	wah wá wó
+画	wah wá wó
+挖	w'áh w'ah
+劃	wáh wó
+闤	wan gwan
+晚	wan van man an
+幻	w'an wan
+患	w'an wan
+玩	w'an wan
+翫	w'an wan
+輓	w'an wan
+媼	wáng au
+歪	w'e hwá w'á
+外	we ngá
+夘	we ngá  mau
+壞	we wá
+懷	we wá
+槐	we wá
+淮	we wá
+尉	we y'óh
+緯	we yü
+喂	w'e y'ü
+餧	w'e y'ü
+㨡	w'eh kw'eh
+芃	wen búng
+豌	w'en hön
+剜	w'en wah
+完	wen we
+椀	w'en wen
+盌	w'en wen
+浣	w'en wen
+澣	w'en wen
+碗	w'en wen
+㧓	w'ó kwó
+㼘	wó ngau
+瓦	w'ó wó ngau
+鑊	woh hóh
+惑	wóh hóh
+獲	woh hoh weh
+感	wóh ken
+為	wöi we
+爲	wöi we
+衞	wöi vi we
+畏	w'ói w'e
+廻	wöi we
+迴	wöi we
+惠	wöi we
+寪	wöi we
+繪	wöi we
+謂	wöi we
+違	wöi we
+威	w'öi w'e
+會	wöi w'ewe kwe
+衛	wöivi we
+会	wöiwe kwe
+住	wong dsû
+忘	wong vong mong
+望	wong vong mong
+網	wong vong mong
+枉	w'ong wong
+旺	wong yong
+网	wongvong mong
+亡	wongvong mong vú
+湖	wú hú
+吳	wú hú ng
+黌	wung húng
+穩	w'ung wung
+愠	w'ung y'ün
+亞	y'á á
+矮	y'á á
+躷	y'á á
+丫	y'á au
+啞	y'á au
+椏	y'á au
+瘂	y'á au
+鴉	y'á au
+𡀽	y'á e ke
+呀	y'á há
+下	yá hau
+夏	yá hau
+鰕	yá hyá h'ön
+叚	yá kyá dön
+牙	yá ngá
+砑	yá ngá
+芽	yá ngá
+衙	yá ngá
+鴨	y'ah ah
+壓	y'ah ah k'ah
+押	y'ah ah k'ah
+匣	yah hah
+狹	yah hah
+斈	yáh hoh
+學	yáh hoh
+挾	yah kah
+峽	yah kyah
+𨊊	yah ngoh
+躍	yáh y'áh
+閘	y'ah zah
+醎	yan han
+閑	yan han
+餡	yan han
+眼	yan ngan
+雁	yan ngan
+鴈	yan ngan
+䧹	yan ngan
+炎	yan yi
+言	yan yin
+衖	yáng lúng
+巷	yáng lúng hong h'ong
+鴦	yáng y'áng
+尹	y'áng y'ung
+拗	y'au au
+陶	y'au dau
+𨺃	y'au dau
+郊	yau kyau
+堯	yau ngau
+齩	y'au ngau
+嚙	y'au ngau
+要	y'au yau
+肴	y'au yau
+咬	y'au yau ngau
+軺	yau zau
+鞋	ye há
+鞵	ye há
+埜	ye yá
+夜	ye yá
+暇	ye yá hyá
+冶	ye yá yi
+懈	ye yan
+野	ye y'an yá
+也	ye yan y'á há
+隘	y'e y'uh
+尤	y'eu yeu
+又	yeu yi
+耰	y'eu y'in
+奚	yi hyi
+伊	yi i
+嵇	yi kyi
+蹊	yi ky'i
+沂	yi nyi
+諺	yi nyin
+洟	yi t'i
+拽	yi yih
+逸	yih yuh
+溢	yih y'uh
+涎	yin dsan zan zin
+癇	yin gyin
+焉	yin in
+鉛	yin k'an
+儼	y'in ngen nyin
+彥	yin nyin
+艷	yin yan
+豔	yin yan
+豓	yin yan
+限	yin yan han
+陷	yin yan han
+顏	yin yan ngan
+顔	yin yan ngan
+閒	yin yen yan  kyin (2nd and 3rd) han  kan 
+剡	y'in zen
+荇	ying (yung)
+郢	ying (yung)
+育	yóh nyóh
+月	yöh nyöh
+抈	yöh nyöh
+域	yöh yóh
+聿	y'öh yöh
+矞	y'öh yöh
+鉞	y'öh yöh nyöh
+禹	yöh yü
+㷉	y'öh yün
+熨	y'öh yün
+媛	yön e
+掾	yön nyin
+圜	yön wan gwan
+鴛	yön y'ön
+玄	y'ön yön yi
+運	yön yün
+傴	yü heu h'eu
+菸	yü in
+魚	yü ng
+𩺰	yü ng
+寓	yü ny
+寓	yü nyü
+虞	yü nyü
+遇	yü nyü
+籲	yü yáh
+龥	yü yáh
+愈	yü yöh
+亦	yuh há
+斁	yuh tú
+易	yuh yi
+繹	yuh yih
+液	y'uh yuh
+慍	y'ün wung
+韞	y'ün wung
+韵	y'ün yön
+韻	y'ün yün
+行	yung (1st and 3rd) hong háng 
+櫻	y'ung áng
+罌	y'ung áng
+鸚	y'ung áng
+陰	y'ung en
+隂	y'ung en
+杏	yung háng
+桁	yung háng (with 1st) hong
+衡	yung hung
+吽	y'ung h'úng
+映	y'ung y'áng
+暎	y'ung y'áng
+倖	y'ung yung
+幸	y'ung yung
+營	yung yúng
+癰	y'úng yúng
+雍	y'úng yúng
+癮	y'ung yung nyin
+螢	yúng yung yeu
+萤	yúng yung yeu
+孕	yung y'ung yün
+鹹	y'ungyan han
+箬	záh nyáh
+讓	záng nyáng
+譲	záng nyáng
+釀	záng nyáng
+醸	záng nyáng
+尚	záng zong
+尙	záng zong
+上	záng zong long
+繞	zau nyau
+遶	zau nyau
+饒	zau nyau
+造	zau ts'au
+豺	ze zá
+社	ze zó
+麝	ze zó
+射	ze zuh zoh yuh zá zó yá tú
+揲	zeh dih
+碟	zeh dih
+日	zeh nyih
+熱	zeh nyih
+𤍠	zeh nyih
+十	zeh seh só
+拾	zeh zih
+染	zen nyin
+撚	zen ny'in
+单	zen tan
+授	zeu dseu
+爿	ziáng pan zong ban
+邪	zie  yá  ziá 
+衺	zie (zin)
+斜	zie ziá
+謝	zie ziá
+蓆	zih dsih
+旋	zin zih
+𢳄	zin zih
+撏	zing zin
+喏	zó nau
+蛇	zó yi
+肉	zóh nyóh
+⺼	zóh nyóh
+蓐	zóh nyóh
+褥	zóh nyóhnyoh
+屬	zóh tsóh
+狀	zong dsong
+状	zong dsong
+芧	zû dsz
+苧	zû dsz
+乳	zû lú ná
+庶	zû sû
+薷	zû zü
+色	zuh suh
+石	zuh tan záh
+碩	zuh záh sóh
+盛	zung  záng
+忱	zung dsung
+諶	zung dsung
+吝	zung ling
+紉	zung ling
+亻	zung nyung
+仁	zung nyung
+仞	zung nyung
+任	zung nyung
+忍	zung nyung
+認	zung nyung
+閏	zung nyung
+靭	zung nyung
+韌	zung nyung
+靱	zung nyung
+唇	zung tsung
+脣	zung tsung
+椹	zung tung
+葚	zung tung
+褆	zz  di  yeu 
+示	zz gyi
+礻	zz gyi
