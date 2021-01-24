@@ -1,0 +1,49 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema-id: edkins
+  name: 上海閒話
+  version: "1.0"
+  author:
+    - 空埃
+    - stickytoffeepuddingwithcaramel@gmail.com
+  description:
+    上海閒話的輸入法，用Edkins拼音
+   
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 中式, 西式 ]
+    
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+    
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
