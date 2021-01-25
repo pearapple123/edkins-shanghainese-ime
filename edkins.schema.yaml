@@ -59,6 +59,7 @@ speller:
     - derive/ü/ui/
     - derive/û/u/
     - derive/ö/oe/
+    - xform/'/h/
     
 translator:
   dictionary: edkins
