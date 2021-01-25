@@ -1,7 +1,7 @@
 # edkins-shanghainese-ime
 An IME for Shanghainese, using Edkins romanisation.
 
-How to use:<br>
+**How to use:**<br>
 
 IF YOU HAVEN'T ALREADY INSTALLED RIME:<br>
 See Instructions for RIME installation.pdf
@@ -10,7 +10,7 @@ See Instructions for RIME installation.pdf
 2. Modify the default.custom.yaml file to include this IME by adding the line `- {schema: edkins}` to it.
 3. Re-deploy.
 
-Character combinations:
+**Character combinations:**
 | Character | What to type |
 |:---------:|:------------:|
 |     ’     |       h      |
