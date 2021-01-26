@@ -50,7 +50,7 @@ menu:
   alternative_select_keys:
     
 speller:
-  alphabet: aábcdefghijklmnoöópqrstuúüûvwxyz’
+  alphabet: abcdefghijklmnopqrstuvwxyz‘；-
   delimiter: " "
   algebra:
     - xform/á/;/
