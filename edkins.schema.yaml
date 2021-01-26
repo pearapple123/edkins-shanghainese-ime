@@ -50,11 +50,11 @@ menu:
   alternative_select_keys:
     
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz‘；-
+  alphabet: abcdefghijklmnopqrstuvwxyz';\
   delimiter: " "
   algebra:
-    - xform/á/=/
-    - xform/ó/-/
+    - xform/á/;/
+    - xform/ó/\/
     - derive/ú/oo/
     - derive/ü/ui/
     - derive/û/u/
@@ -63,10 +63,14 @@ speller:
     
 translator:
   dictionary: edkins
-  spelling_hints: 5
+  spelling_hints: 8
   preedit_format:
-    - xform/=/á/
-    - xform/-/ó/
+    - xform/;/á/
+    - xform/\/ó/
+    - xform/h/'/
+  comment_format:
+    - xform/;/á/
+    - xform/\/ó/
     - xform/h/'/
 
 punctuator:
