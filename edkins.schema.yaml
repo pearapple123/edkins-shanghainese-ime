@@ -53,8 +53,8 @@ speller:
   alphabet: aábcdefghijklmnoöópqrstuúüûvwxyz’
   delimiter: " "
   algebra:
-    - xform/;/á/
-    - xform/-/ó/
+    - xform/á/;/
+    - xform/ó/-/
     - derive/ú/oo/
     - derive/ü/ui/
     - derive/û/u/
