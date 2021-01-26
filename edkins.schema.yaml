@@ -53,7 +53,7 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz‘；-
   delimiter: " "
   algebra:
-    - xform/á/+/
+    - xform/á/=/
     - xform/ó/-/
     - derive/ú/oo/
     - derive/ü/ui/
@@ -64,6 +64,10 @@ speller:
 translator:
   dictionary: edkins
   spelling_hints: 5
+  preedit_format:
+    - xform/=/á/
+    - xform/-/ó/
+    - xform/h/'/
 
 punctuator:
   import_preset: default
