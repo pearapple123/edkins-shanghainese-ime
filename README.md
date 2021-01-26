@@ -20,5 +20,7 @@ See Instructions for RIME installation.pdf
 |     ö     |      oe      |
 |     ó     |       o      |
 |     á     |       a      |
+|    áh     |      ak      |
+|    óh     |      ok      |
 
 If you need any further assistance, here's our Discord server: https://discord.gg/2qRymM7KFY. Alternatively, flag issues as usual in the Issues tab.
