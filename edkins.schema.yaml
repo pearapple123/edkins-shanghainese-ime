@@ -50,11 +50,11 @@ menu:
   alternative_select_keys:
     
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz';#
+  alphabet: abcdefghijklmnopqrstuvwxyz';[
   delimiter: " "
   algebra:
     - xform/á/;/
-    - xform/ó/#/
+    - xform/ó/[/
     - derive/ú/oo/
     - derive/ü/ui/
     - derive/û/u/
@@ -66,11 +66,11 @@ translator:
   spelling_hints: 8
   preedit_format:
     - xform/;/á/
-    - xform/#/ó/
+    - xform/[/ó/
     - xform/h/'/
   comment_format:
     - xform/;/á/
-    - xform/#/ó/
+    - xform/[/ó/
     - xform/h/'/
 
 punctuator:
