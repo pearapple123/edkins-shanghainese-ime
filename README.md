@@ -4,7 +4,7 @@ An IME for Shanghainese, using Edkins romanisation.
 **How to use:**<br>
 
 IF YOU HAVEN'T ALREADY INSTALLED RIME:<br>
-See Instructions for RIME installation.pdf
+See [here](Instructions%20for%20RIME%20installation.pdf)
 
 1. Afterwards, download ZIP and only extract the dict.yaml and the schema.yaml files to the Rime folder in the Roaming directory.
 2. Modify the default.custom.yaml file to include this IME by adding the line `- {schema: edkins}` to it.
